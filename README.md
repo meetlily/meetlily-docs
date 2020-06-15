@@ -1,2 +1,2 @@
-# meetlily-talk-docs
-Meetlly Talk Documentations
+# Meetlily Applications
+Meetlly Documentations
